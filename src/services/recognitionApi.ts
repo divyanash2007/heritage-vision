@@ -1,16 +1,21 @@
-export const DEFAULT_FASTAPI_BASE_URL =
-  'https://attitude-epic-both-specials.trycloudflare.com';
+export const DEFAULT_FASTAPI_BASE_URL = '';
 
-const configuredBaseUrl =
+const rawEnvUrl =
   typeof import.meta !== 'undefined' &&
   import.meta.env &&
-  typeof import.meta.env.VITE_RECOGNITION_API_URL === 'string' &&
-  import.meta.env.VITE_RECOGNITION_API_URL.trim()
-    ? import.meta.env.VITE_RECOGNITION_API_URL.trim().replace(/\/+$/, '')
+  typeof import.meta.env.VITE_RECOGNITION_API_URL === 'string'
+    ? import.meta.env.VITE_RECOGNITION_API_URL.trim()
+    : '';
+
+const configuredBaseUrl =
+  rawEnvUrl && !rawEnvUrl.includes('trycloudflare.com')
+    ? rawEnvUrl.replace(/\/+$/, '')
     : DEFAULT_FASTAPI_BASE_URL;
 
 export const FASTAPI_RECOGNITION_BASE_URL = configuredBaseUrl;
-export const FASTAPI_RECOGNITION_ENDPOINT = `${FASTAPI_RECOGNITION_BASE_URL}/recognize`;
+export const FASTAPI_RECOGNITION_ENDPOINT = FASTAPI_RECOGNITION_BASE_URL
+  ? `${FASTAPI_RECOGNITION_BASE_URL}/recognize`
+  : '/recognize';
 
 export interface SupportedMonumentMeta {
   rawLabel: 'Taj_Mahal' | 'Red_Fort' | 'Qutub_Minar';
@@ -139,7 +144,11 @@ export async function checkFastApiBackendStatus(
   const timer = window.setTimeout(() => controller.abort(), timeoutMs);
 
   try {
-    const res = await fetch(`${FASTAPI_RECOGNITION_BASE_URL}/`, {
+    const statusUrl = FASTAPI_RECOGNITION_BASE_URL
+      ? `${FASTAPI_RECOGNITION_BASE_URL}/`
+      : '/recognize/status';
+
+    const res = await fetch(statusUrl, {
       method: 'GET',
       signal: controller.signal,
     });
