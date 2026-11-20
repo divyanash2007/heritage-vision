@@ -1,0 +1,6 @@
+{
+  "name": "HERITAGE VISION",
+  "description": "Visual Heritage Recognition and Grounded Cultural Discovery Platform for exploring Indian heritage monuments through modular AI recognition scaffolding and verified cultural records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

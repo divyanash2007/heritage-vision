@@ -1,0 +1,20 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Exclude large curated dataset media & binary embedding weights from Git history
+dataset/*/
+!dataset/README.md
+!dataset/*.csv
+!dataset/*.json
+embeddings/*.npz
+embeddings/*.pt
+embeddings/*.npy
+__pycache__/
+*.pyc
+.venv/

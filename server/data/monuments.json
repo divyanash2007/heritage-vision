@@ -1,0 +1,1375 @@
+[
+  {
+    "id": "taj-mahal",
+    "accessionCode": "HV-01",
+    "name": "Taj Mahal",
+    "alternativeNames": [],
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "cityOrDistrict": "Agra",
+    "category": "Mughal & Indo-Islamic",
+    "historicalPeriod": "Mughal Empire",
+    "constructionDateOrPeriod": "1631–1648 CE",
+    "historicalSignificance": "Inscribed by UNESCO as the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage.",
+    "architecturalStyle": "White marble mausoleum",
+    "unescoStatus": "world_heritage_site",
+    "unescoInscriptionYear": 1983,
+    "preservationInformation": {
+      "custodian": "Archaeological Survey of India (Agra Circle)",
+      "statusSummary": "Managed by the Archaeological Survey of India under the Ancient Monuments and Archaeological Sites and Remains (AMASR) Act (1958), Rules (1959), and 2010 Amendment, with an on-site air quality monitoring station, Agra Circle supervision, and pollution regulation across the 10,400 sq km Taj Trapezium Zone (TTZ).",
+      "requiresVerification": false
+    },
+    "description": "An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife.",
+    "imageReferences": [
+      {
+        "image_id": "img-taj-mahal-01",
+        "site_id": "taj-mahal",
+        "filename": "src/assets/images/monuments/taj-mahal.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:El_Taj_Mahal-Agra_India0028.JPG",
+        "creator": "Diego Delso",
+        "licence": "CC BY-SA 4.0",
+        "attribution": "Diego Delso (CC BY-SA 4.0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Taj Mahal white marble mausoleum and reflecting pool, Agra (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-unesco-252",
+        "sourceTitle": "Taj Mahal — UNESCO World Heritage List #252",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/252",
+        "apiVerificationUrl": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D%27252%27",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified via official UNESCO DataHub whc001 API (HTTP 200); whc.unesco.org returned HTTP 403 to automated fetcher.",
+        "supportedInformation": [
+          "Official monument name (Taj Mahal) and Agra location",
+          "Construction period (1631–1648) under Mughal emperor Shah Jahan",
+          "UNESCO World Heritage Site inscription (1983, Criterion i)",
+          "White marble mausoleum description",
+          "Preservation management by ASI (Agra Circle) under the AMASR Act 1958/1959/2010 and Taj Trapezium Zone (TTZ) framework"
+        ]
+      }
+    ],
+    "verificationStatus": "verified",
+    "requiresVerificationFields": [],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "taj_mahal_agra",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  },
+  {
+    "id": "agra-fort",
+    "accessionCode": "HV-02",
+    "name": "Agra Fort",
+    "alternativeNames": [
+      "Red Fort of Agra"
+    ],
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "cityOrDistrict": "Agra",
+    "category": "Forts & Palaces",
+    "historicalPeriod": "Mughal Empire",
+    "constructionDateOrPeriod": "16th century CE",
+    "historicalSignificance": "Important 16th-century Mughal monument encompassing the imperial city of the Mughal rulers within 2.5-km-long enclosure walls.",
+    "architecturalStyle": "Red sandstone Mughal fortress enclosing palaces, audience halls, and two mosques",
+    "unescoStatus": "world_heritage_site",
+    "unescoInscriptionYear": 1983,
+    "preservationInformation": {
+      "custodian": "Archaeological Survey of India (Agra Circle)",
+      "statusSummary": "Protected under the Ancient Monuments and Archaeological Sites and Remains (AMASR) Act (1958) and administered by the Archaeological Survey of India (Agra Circle, established 1885), which maintains 265 monuments across western Uttar Pradesh; also covered within the 10,400 sq km Taj Trapezium Zone (TTZ).",
+      "requiresVerification": false
+    },
+    "description": "Near the gardens of the Taj Mahal stands the 16th-century Mughal fortress of red sandstone known as the Red Fort of Agra, enclosing palaces such as the Jahangir Palace and Khas Mahal (built by Shah Jahan), the Diwan-i-Khas, and two mosques.",
+    "imageReferences": [
+      {
+        "image_id": "img-agra-fort-01",
+        "site_id": "agra-fort",
+        "filename": "src/assets/images/monuments/agra-fort.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Agra_Fort,Agra.jpg",
+        "creator": "Darshanadakane",
+        "licence": "CC BY-SA 3.0",
+        "attribution": "Darshanadakane (CC BY-SA 3.0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Agra Fort red sandstone fortress ramparts and courtyard, Agra (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-unesco-251",
+        "sourceTitle": "Agra Fort — UNESCO World Heritage List #251",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/251",
+        "apiVerificationUrl": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D%27251%27",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified via official UNESCO DataHub whc001 API (HTTP 200); whc.unesco.org returned HTTP 403 to automated fetcher.",
+        "supportedInformation": [
+          "Official monument name and alternative designation (Red Fort of Agra)",
+          "16th-century Mughal fortress chronology and 2.5-km enclosure walls",
+          "UNESCO World Heritage Site inscription (1983, Criterion iii)",
+          "Interior structures including Jahangir Palace, Khas Mahal, Diwan-i-Khas, and two mosques"
+        ]
+      },
+      {
+        "id": "src-asi-agra-circle-fort",
+        "sourceTitle": "Agra Fort & Conservation — Archaeological Survey of India, Agra Circle",
+        "publisher": "Archaeological Survey of India (Agra Circle)",
+        "url": "https://www.asiagracircle.in/agra-fort.html",
+        "apiVerificationUrl": "https://www.asiagracircle.in/conservation-&-preservation.html",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified directly via HTTP 200 GET from official ASI Agra Circle pages (agra-fort.html, monuments.html, and conservation-&-preservation.html).",
+        "supportedInformation": [
+          "Jurisdiction under ASI Agra Circle (265 monuments across 29 districts of western Uttar Pradesh)",
+          "Statutory protection and maintenance under the AMASR Act (1958) and Antiquities and Art Treasures Act (1972)"
+        ]
+      }
+    ],
+    "verificationStatus": "verified",
+    "requiresVerificationFields": [],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "agra_fort_agra",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  },
+  {
+    "id": "fatehpur-sikri",
+    "accessionCode": "HV-03",
+    "name": "Fatehpur Sikri",
+    "alternativeNames": [
+      "City of Victory"
+    ],
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "cityOrDistrict": "Agra District",
+    "category": "Mughal & Indo-Islamic",
+    "historicalPeriod": "Mughal Empire",
+    "constructionDateOrPeriod": "Second half of the 16th century CE",
+    "historicalSignificance": "Built by Emperor Akbar and served as the capital of the Mughal Empire for roughly 10 years.",
+    "architecturalStyle": "Uniform architectural complex of monuments and temples, including the Jama Masjid",
+    "unescoStatus": "world_heritage_site",
+    "unescoInscriptionYear": 1986,
+    "preservationInformation": {
+      "custodian": "Archaeological Survey of India (Agra Circle)",
+      "statusSummary": "Managed by the Archaeological Survey of India under the AMASR Act (1958), Rules (1959), and Amendment and Validation Act (2010) governing the property and buffer zone, alongside pollution-protection rulings within the 10,400 sq km Taj Trapezium Zone (TTZ).",
+      "requiresVerification": false
+    },
+    "description": "Built during the second half of the 16th century by Emperor Akbar, Fatehpur Sikri (the City of Victory) comprises monuments and temples in a uniform architectural style including the Jama Masjid.",
+    "imageReferences": [
+      {
+        "image_id": "img-fatehpur-sikri-01",
+        "site_id": "fatehpur-sikri",
+        "filename": "src/assets/images/monuments/fatehpur-sikri.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Fatehpur_Sikri-Jama_Masjid-Buland_gate_CV-20131018.jpg",
+        "creator": "Daniel Villafruela",
+        "licence": "CC BY-SA 3.0",
+        "attribution": "Daniel Villafruela (CC BY-SA 3.0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Buland Darwaza at Jama Masjid complex, Fatehpur Sikri (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-unesco-255",
+        "sourceTitle": "Fatehpur Sikri — UNESCO World Heritage List #255",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/255",
+        "apiVerificationUrl": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D%27255%27",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified via official UNESCO DataHub whc001 API (HTTP 200); whc.unesco.org returned HTTP 403 to automated fetcher.",
+        "supportedInformation": [
+          "Official name and designation as the City of Victory",
+          "Construction in second half of 16th century by Emperor Akbar",
+          "UNESCO World Heritage Site inscription (1986, Criteria ii, iii, iv)",
+          "Inclusion of the Jama Masjid in a uniform architectural style",
+          "Preservation management by ASI under the AMASR Act (1958/1959/2010) and Taj Trapezium Zone (TTZ) orders"
+        ]
+      }
+    ],
+    "verificationStatus": "verified",
+    "requiresVerificationFields": [],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "fatehpur_sikri_uttar_pradesh",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  },
+  {
+    "id": "red-fort",
+    "accessionCode": "HV-04",
+    "name": "Red Fort",
+    "alternativeNames": [
+      "Red Fort Complex"
+    ],
+    "country": "India",
+    "state": "Delhi",
+    "cityOrDistrict": "New Delhi",
+    "category": "Forts & Palaces",
+    "historicalPeriod": "Mughal Empire",
+    "constructionDateOrPeriod": "17th century CE (Shah Jahan)",
+    "historicalSignificance": "Built as the palace fort of Shahjahanabad under the fifth Mughal Emperor Shah Jahan; considered by UNESCO to represent the zenith of Mughal creativity and to have strongly influenced later buildings and gardens in Rajasthan, Delhi, and Agra.",
+    "architecturalStyle": "Islamic-prototype palace fort with pavilions connected by Nahr-i-Behisht, reflecting Persian, Timurid, and Hindu traditions",
+    "unescoStatus": "world_heritage_site",
+    "unescoInscriptionYear": 2007,
+    "preservationInformation": {
+      "custodian": "Archaeological Survey of India",
+      "statusSummary": "Declared a Monument of National Importance under the Ancient Monuments and Archaeological Sites and Remains Act (1959) with an established buffer zone and managed directly by the Archaeological Survey of India; conservation has improved, with continued work noted to stabilize structural condition and manage visitor impact.",
+      "requiresVerification": false
+    },
+    "description": "The Red Fort Complex was built as the palace fort of Shahjahanabad under Mughal Emperor Shah Jahan, featuring a row of pavilions connected by a continuous water channel known as the Nahr-i-Behisht (Stream of Paradise).",
+    "imageReferences": [
+      {
+        "image_id": "img-red-fort-01",
+        "site_id": "red-fort",
+        "filename": "src/assets/images/monuments/red-fort.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lahori_Gate_-_Red_Fort_-_Delhi_2014-05-13_3151-3160_Compress.JPG",
+        "creator": "Biswarup Ganguly",
+        "licence": "CC BY 3.0",
+        "attribution": "Biswarup Ganguly (CC BY 3.0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Lahori Gate main western entrance of the Red Fort Complex, New Delhi (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-unesco-231",
+        "sourceTitle": "Red Fort Complex — UNESCO World Heritage List #231",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/231",
+        "apiVerificationUrl": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D%27231%27",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified via official UNESCO DataHub whc001 API (HTTP 200); whc.unesco.org returned HTTP 403 to automated fetcher.",
+        "supportedInformation": [
+          "Official listing as Red Fort Complex",
+          "Role as palace fort of Shahjahanabad under Shah Jahan",
+          "UNESCO World Heritage Site inscription (2007, Criteria ii, iii)",
+          "Nahr-i-Behisht water channel and fusion of Persian, Timurid, and Hindu traditions",
+          "Declaration as a Monument of National Importance under AMASR Act (1959) and direct ASI management with buffer zone"
+        ]
+      }
+    ],
+    "verificationStatus": "verified",
+    "requiresVerificationFields": [],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "red_fort_delhi",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  },
+  {
+    "id": "qutub-minar",
+    "accessionCode": "HV-05",
+    "name": "Qutub Minar",
+    "alternativeNames": [
+      "Qutb Minar and its Monuments, Delhi"
+    ],
+    "country": "India",
+    "state": "Delhi",
+    "cityOrDistrict": "New Delhi",
+    "category": "Mughal & Indo-Islamic",
+    "historicalPeriod": "Early 13th – early 14th century CE",
+    "constructionDateOrPeriod": "Early 13th century CE (Alai-Darwaza Gate built 1311 CE)",
+    "historicalSignificance": "Comprises the 72.5-m-high red sandstone tower of Qutb Minar, the Alai-Darwaza Gate (1311 CE), and the Quwwatu'l-Islam Mosque, the oldest mosque in northern India.",
+    "architecturalStyle": "Red sandstone minaret (72.5 m) with alternating angular and rounded flutings, funerary buildings, and mosques",
+    "unescoStatus": "world_heritage_site",
+    "unescoInscriptionYear": 1993,
+    "preservationInformation": {
+      "custodian": "Archaeological Survey of India (Government of India)",
+      "statusSummary": "Owned by the Government of India and managed by the Archaeological Survey of India under the AMASR Act (1958), Rules (1959), and 2010 Amendment, with peripheral areas coordinated with the Delhi Development Authority, Municipal Corporation of Delhi, and Government of NCT of Delhi.",
+      "requiresVerification": false
+    },
+    "description": "Built in the early 13th century south of Delhi, the red sandstone tower of Qutb Minar stands 72.5 m high, tapering from 14.32 m at its base to 2.75 m at its peak, surrounded by the Alai-Darwaza Gate and two mosques including Quwwatu'l-Islam.",
+    "imageReferences": [
+      {
+        "image_id": "img-qutub-minar-01",
+        "site_id": "qutub-minar",
+        "filename": "src/assets/images/monuments/qutub-minar.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:View_of_Qutub_Minar_(1).jpg",
+        "creator": "Syed Sajidul Islam",
+        "licence": "CC BY-SA 4.0",
+        "attribution": "Syed Sajidul Islam (CC BY-SA 4.0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Qutub Minar red sandstone victory tower and complex, New Delhi (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-unesco-233",
+        "sourceTitle": "Qutb Minar and its Monuments, Delhi — UNESCO World Heritage List #233",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/233",
+        "apiVerificationUrl": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D%27233%27",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified via official UNESCO DataHub whc001 API (HTTP 200); whc.unesco.org returned HTTP 403 to automated fetcher.",
+        "supportedInformation": [
+          "Official listing as Qutb Minar and its Monuments, Delhi",
+          "Early 13th-century minaret and 1311 CE Alai-Darwaza Gate",
+          "UNESCO World Heritage Site inscription (1993, Criterion iv)",
+          "Height (72.5 m), base/peak diameters (14.32 m / 2.75 m), and Quwwatu'l-Islam Mosque",
+          "Government of India ownership, ASI management, and multi-agency peripheral governance under the AMASR Act (1958/1959/2010)"
+        ]
+      }
+    ],
+    "verificationStatus": "verified",
+    "requiresVerificationFields": [],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "qutub_minar_delhi",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  },
+  {
+    "id": "humayuns-tomb",
+    "accessionCode": "HV-06",
+    "name": "Humayun's Tomb",
+    "alternativeNames": [
+      "Humayun's Tomb, Delhi"
+    ],
+    "country": "India",
+    "state": "Delhi",
+    "cityOrDistrict": "New Delhi",
+    "category": "Mughal & Indo-Islamic",
+    "historicalPeriod": "Mughal period",
+    "constructionDateOrPeriod": "1570 CE",
+    "historicalSignificance": "First garden-tomb on the Indian subcontinent, inspiring major architectural innovations that culminated in the construction of the Taj Mahal.",
+    "architecturalStyle": "Garden-tomb architecture on the Indian subcontinent",
+    "unescoStatus": "world_heritage_site",
+    "unescoInscriptionYear": 1993,
+    "preservationInformation": {
+      "custodian": "Archaeological Survey of India (in partnership with Aga Khan Trust for Culture)",
+      "statusSummary": "Managed by the Archaeological Survey of India under the AMASR Act (1958), Rules (1959), and 2010 Amendment alongside Delhi urban heritage statutes; conserved in partnership with the Aga Khan Trust for Culture since 1997, including enclosed garden waterworks restoration (1997–2003) and tomb conservation works (since 2007).",
+      "requiresVerification": false
+    },
+    "description": "Built in 1570 CE in Delhi, Humayun's Tomb was the first garden-tomb on the Indian subcontinent and inspired architectural innovations culminating in the Taj Mahal.",
+    "imageReferences": [
+      {
+        "image_id": "img-humayuns-tomb-01",
+        "site_id": "humayuns-tomb",
+        "filename": "src/assets/images/monuments/humayuns-tomb.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Humayun%27s_Tomb_-_Delhi_-_005.jpg",
+        "creator": "Rupeshsarkar",
+        "licence": "CC BY-SA 4.0",
+        "attribution": "Rupeshsarkar (CC BY-SA 4.0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Humayun Tomb garden-mausoleum facade and charbagh walkways, New Delhi (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-unesco-232",
+        "sourceTitle": "Humayun's Tomb, Delhi — UNESCO World Heritage List #232",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/232",
+        "apiVerificationUrl": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D%27232%27",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified via official UNESCO DataHub whc001 API (HTTP 200); whc.unesco.org returned HTTP 403 to automated fetcher.",
+        "supportedInformation": [
+          "Official listing as Humayun's Tomb, Delhi",
+          "Construction year (1570 CE)",
+          "UNESCO World Heritage Site inscription (1993, Criteria ii, iv)",
+          "First garden-tomb on the Indian subcontinent and precursor to the Taj Mahal",
+          "ASI statutory protection under AMASR Act (1958/1959/2010) and AKTC conservation partnership (1997–2003 gardens; 2007+ tomb works)"
+        ]
+      }
+    ],
+    "verificationStatus": "verified",
+    "requiresVerificationFields": [],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "humayuns_tomb_delhi",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  },
+  {
+    "id": "ajanta-caves",
+    "accessionCode": "HV-07",
+    "name": "Ajanta Caves",
+    "alternativeNames": [],
+    "country": "India",
+    "state": "Maharashtra",
+    "cityOrDistrict": "Chhatrapati Sambhajinagar District",
+    "category": "Rock-Cut Caves",
+    "historicalPeriod": "2nd–1st centuries BCE and Gupta period (5th–6th centuries CE)",
+    "constructionDateOrPeriod": "2nd century BCE – 6th century CE",
+    "historicalSignificance": "The paintings and sculptures of Ajanta are considered masterpieces of Buddhist religious art and exerted considerable artistic influence.",
+    "architecturalStyle": "Rock-cut Buddhist cave monuments with paintings and sculptures",
+    "unescoStatus": "world_heritage_site",
+    "unescoInscriptionYear": 1983,
+    "preservationInformation": {
+      "custodian": "Archaeological Survey of India, Forest Department & Government of Maharashtra",
+      "statusSummary": "Managed by the Archaeological Survey of India under the AMASR Act (1958) and Rules (1959) with 100 m prohibited and 200 m regulated areas; buffer zone co-managed with the Forest Department and Government of Maharashtra under forest laws, with a Comprehensive Conservation Management Plan addressing visitor pressure and rock stability.",
+      "requiresVerification": false
+    },
+    "description": "The earliest Buddhist cave monuments at Ajanta date from the 2nd and 1st centuries BCE, with richly decorated caves added during the Gupta period (5th and 6th centuries CE).",
+    "imageReferences": [
+      {
+        "image_id": "img-ajanta-caves-01",
+        "site_id": "ajanta-caves",
+        "filename": "src/assets/images/monuments/ajanta-caves.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ajanta_Caves,_India,_Panoramic_view_of_Ajanta_basalt_cliffs_and_caves.jpg",
+        "creator": "Vyacheslav Argenberg",
+        "licence": "CC BY 4.0",
+        "attribution": "Vyacheslav Argenberg (CC BY 4.0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Panoramic view of Ajanta basalt cliffs and rock-cut Buddhist caves, Maharashtra (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-unesco-242",
+        "sourceTitle": "Ajanta Caves — UNESCO World Heritage List #242",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/242",
+        "apiVerificationUrl": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D%27242%27",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified via official UNESCO DataHub whc001 API (HTTP 200); whc.unesco.org returned HTTP 403 to automated fetcher.",
+        "supportedInformation": [
+          "Official site name (Ajanta Caves)",
+          "Dating: 2nd–1st centuries BCE and Gupta period (5th–6th centuries CE)",
+          "UNESCO World Heritage Site inscription (1983, Criteria i, ii, iii)",
+          "Buddhist religious art paintings and sculptures",
+          "ASI site management, joint Forest Dept/Maharashtra buffer governance, 100 m/200 m AMASR zones, and Comprehensive Conservation Management Plan"
+        ]
+      }
+    ],
+    "verificationStatus": "verified",
+    "requiresVerificationFields": [],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "ajanta_caves_maharashtra",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  },
+  {
+    "id": "ellora-caves",
+    "accessionCode": "HV-08",
+    "name": "Ellora Caves",
+    "alternativeNames": [],
+    "country": "India",
+    "state": "Maharashtra",
+    "cityOrDistrict": "Chhatrapati Sambhajinagar District",
+    "category": "Rock-Cut Caves",
+    "historicalPeriod": "600–1000 CE",
+    "constructionDateOrPeriod": "600–1000 CE",
+    "historicalSignificance": "An uninterrupted sequence of monuments (600–1000 CE) devoted to Buddhism, Hinduism, and Jainism, illustrating the spirit of tolerance in ancient India.",
+    "architecturalStyle": "34 rock-cut monasteries and temples excavated side by side into a basalt cliff",
+    "unescoStatus": "world_heritage_site",
+    "unescoInscriptionYear": 1983,
+    "preservationInformation": {
+      "custodian": "Archaeological Survey of India, Forest Department & Government of Maharashtra",
+      "statusSummary": "Managed by the Archaeological Survey of India under the AMASR Act (1958), Rules (1959), and 2010 Amendment, with buffer zones co-managed with the Forest Department and Government of Maharashtra; a detailed condition survey of all caves forms part of an active Comprehensive Conservation Management Plan.",
+      "requiresVerification": false
+    },
+    "description": "Extending over more than 2 km in a high basalt cliff near Aurangabad in Maharashtra, Ellora comprises 34 rock-cut monasteries and temples dating from 600 to 1000 CE dedicated to Buddhism, Hinduism, and Jainism.",
+    "imageReferences": [
+      {
+        "image_id": "img-ellora-caves-01",
+        "site_id": "ellora-caves",
+        "filename": "src/assets/images/monuments/ellora-caves.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ellora_Caves,_India,_Kailasa_Temple.jpg",
+        "creator": "Vyacheslav Argenberg",
+        "licence": "CC BY 4.0",
+        "attribution": "Vyacheslav Argenberg (CC BY 4.0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Monolithic Kailasa Temple excavated into basalt cliff at Ellora Caves, Maharashtra (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-unesco-243",
+        "sourceTitle": "Ellora Caves — UNESCO World Heritage List #243",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/243",
+        "apiVerificationUrl": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D%27243%27",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified via official UNESCO DataHub whc001 API (HTTP 200); whc.unesco.org returned HTTP 403 to automated fetcher.",
+        "supportedInformation": [
+          "Official site name (Ellora Caves) and Maharashtra location",
+          "Chronology (600–1000 CE) and 34 monasteries and temples",
+          "UNESCO World Heritage Site inscription (1983)",
+          "Buddhist, Hindu, and Jain rock-cut sanctuaries",
+          "ASI site management, joint Maharashtra/Forest Dept buffer governance, and Comprehensive Conservation Management Plan condition survey"
+        ]
+      }
+    ],
+    "verificationStatus": "verified",
+    "requiresVerificationFields": [],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "ellora_caves_maharashtra",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  },
+  {
+    "id": "gateway-of-india",
+    "accessionCode": "HV-09",
+    "name": "Gateway of India",
+    "alternativeNames": [],
+    "country": "India",
+    "state": "Maharashtra",
+    "cityOrDistrict": "Mumbai",
+    "category": "Civic & Colonial Landmarks",
+    "historicalPeriod": "Colonial / Early 20th Century",
+    "constructionDateOrPeriod": null,
+    "historicalSignificance": "Built in Mumbai to welcome King George V (commemorating his 1911 visit) and later witnessed historic national moments including Mahatma Gandhi’s return from South Africa and the departure of the last British troops from India in 1948.",
+    "architecturalStyle": "Indo-Islamic style triumphal gateway",
+    "unescoStatus": "not_listed",
+    "unescoInscriptionYear": null,
+    "preservationInformation": {
+      "custodian": "Directorate of Archaeology and Museums, Government of Maharashtra",
+      "statusSummary": "Designated a Category \"A\" State Protected Monument of the Directorate of Archaeology and Museums (Department of Cultural Affairs, Government of Maharashtra), governed under the Maharashtra Ancient Monuments and Archaeological Sites and Remains Rules (1962) with regulated permissions for public programmes in the memorial area.",
+      "requiresVerification": false
+    },
+    "description": "Historic waterfront monument in Mumbai designated as a Category \"A\" State Protected Monument by the Directorate of Archaeology and Museums, Government of Maharashtra, built in the Indo-Islamic style to welcome King George V (1911) and serving as the ceremonial exit point for the last British troops in 1948.",
+    "imageReferences": [
+      {
+        "image_id": "img-gateway-of-india-01",
+        "site_id": "gateway-of-india",
+        "filename": "src/assets/images/monuments/gateway-of-india.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Gateway_Of_India.jpg",
+        "creator": "Joe Ravi",
+        "licence": "CC BY-SA 3.0",
+        "attribution": "Joe Ravi (CC BY-SA 3.0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Gateway of India waterfront Indo-Islamic triumphal arch, Mumbai (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-maha-arch-gateway",
+        "sourceTitle": "Category \"A\" State Protected Monument & Permissions — Directorate of Archaeology and Museums, Maharashtra",
+        "publisher": "Directorate of Archaeology and Museums, Government of Maharashtra",
+        "url": "https://www.mahaarchaeology.in/en/licence",
+        "apiVerificationUrl": "https://www.mahaarchaeology.in/en/acts_and_legislation",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified directly via HTTP 200 GET from official Government of Maharashtra Directorate of Archaeology and Museums portal (/en/licence and /en/acts_and_legislation).",
+        "supportedInformation": [
+          "Category \"A\" State Protected Monument status under the Directorate of Archaeology and Museums, Government of Maharashtra",
+          "Governance under the Maharashtra Ancient Monuments and Archaeological Sites and Remains Rules (1962)"
+        ]
+      },
+      {
+        "id": "src-pib-gateway-1920811",
+        "sourceTitle": "Ministry of Culture Release on Gateway of India, Mumbai (PRID 1920811)",
+        "publisher": "Press Information Bureau / Ministry of Culture, Government of India",
+        "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1920811&reg=48&lang=2",
+        "apiVerificationUrl": null,
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified directly via HTTP 200 GET from official Press Information Bureau (PIB Mumbai / Ministry of Culture) press release dated 29 April 2023.",
+        "supportedInformation": [
+          "Indo-Islamic architectural style built to welcome King George V (1911 commemoration)",
+          "Historical significance including departure of the last British troops from India in 1948"
+        ]
+      }
+    ],
+    "verificationStatus": "partially_verified",
+    "requiresVerificationFields": [
+      "constructionDateOrPeriod"
+    ],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "gateway_of_india_mumbai",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  },
+  {
+    "id": "sanchi-stupa",
+    "accessionCode": "HV-10",
+    "name": "Sanchi Stupa",
+    "alternativeNames": [
+      "Buddhist Monuments at Sanchi"
+    ],
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "cityOrDistrict": "Raisen District",
+    "category": "Buddhist Monuments",
+    "historicalPeriod": "2nd century BCE – 12th century CE",
+    "constructionDateOrPeriod": "2nd and 1st centuries BCE (active until 12th century CE)",
+    "historicalSignificance": "Oldest Buddhist sanctuary in existence and a major Buddhist centre in India until the 12th century CE.",
+    "architecturalStyle": "Group of Buddhist monuments including monolithic pillars, palaces, temples, and monasteries",
+    "unescoStatus": "world_heritage_site",
+    "unescoInscriptionYear": 1989,
+    "preservationInformation": {
+      "custodian": "Archaeological Survey of India (Government of India)",
+      "statusSummary": "Owned by the Government of India and conserved, protected, maintained, and managed by the Archaeological Survey of India under the AMASR Act (1958), Rules (1959), and Amendment and Validation Act (2010), with surrounding rural buffer development regulated by the Nagar Panchayat under Madhya Pradesh planning rules.",
+      "requiresVerification": false
+    },
+    "description": "Situated on a hill about 40 km from Bhopal, the site of Sanchi comprises Buddhist monuments (monolithic pillars, palaces, temples, and monasteries) in varying states of conservation, most dating back to the 2nd and 1st centuries BCE.",
+    "imageReferences": [
+      {
+        "image_id": "img-sanchi-stupa-01",
+        "site_id": "sanchi-stupa",
+        "filename": "src/assets/images/monuments/sanchi-stupa.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Stupa_1,_Sanchi_01.jpg",
+        "creator": "Bernard Gagnon",
+        "licence": "CC BY-SA 3.0",
+        "attribution": "Bernard Gagnon (CC BY-SA 3.0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Great Stupa (Stupa 1) and carved torana gateway at Sanchi, Madhya Pradesh (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-unesco-524",
+        "sourceTitle": "Buddhist Monuments at Sanchi — UNESCO World Heritage List #524",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/524",
+        "apiVerificationUrl": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D%27524%27",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified via official UNESCO DataHub whc001 API (HTTP 200); whc.unesco.org returned HTTP 403 to automated fetcher.",
+        "supportedInformation": [
+          "Official listing as Buddhist Monuments at Sanchi",
+          "Dating to 2nd and 1st centuries BCE and activity until 12th century CE",
+          "UNESCO World Heritage Site inscription (1989, Criteria i, ii, iii, iv)",
+          "Oldest Buddhist sanctuary in existence with monolithic pillars, palaces, temples, and monasteries",
+          "Government of India ownership and ASI conservation/management under the AMASR Act (1958/1959/2010) and Madhya Pradesh municipal rules"
+        ]
+      }
+    ],
+    "verificationStatus": "verified",
+    "requiresVerificationFields": [],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "sanchi_stupa_madhya_pradesh",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  },
+  {
+    "id": "khajuraho-temples",
+    "accessionCode": "HV-11",
+    "name": "Khajuraho Temples",
+    "alternativeNames": [
+      "Khajuraho Group of Monuments"
+    ],
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "cityOrDistrict": "Chhatarpur District",
+    "category": "Temple Architecture",
+    "historicalPeriod": "Chandella Dynasty",
+    "constructionDateOrPeriod": "950–1050 CE",
+    "historicalSignificance": "Built during the Chandella dynasty's apogee (950–1050 CE); roughly 20 remaining temples belong to Hinduism and Jainism and achieve a balance between architecture and sculpture.",
+    "architecturalStyle": "Hindu and Jain temples balancing architecture and sculptural profusion (including Temple of Kandariya)",
+    "unescoStatus": "world_heritage_site",
+    "unescoInscriptionYear": 1986,
+    "preservationInformation": {
+      "custodian": "Archaeological Survey of India & District Collector, Government of Madhya Pradesh",
+      "statusSummary": "Owned by the Government of India and managed by the Archaeological Survey of India under the AMASR Act (1958), Rules (1959), 1992 amendment, and 2010 Amendment establishing 100 m prohibited and 200 m regulated areas; abutting land is co-managed with the District Collector and rural landscape regulated under Madhya Pradesh Bhumi Vikas Rules (1984).",
+      "requiresVerification": false
+    },
+    "description": "The temples at Khajuraho were built during the Chandella dynasty between 950 and 1050 CE; approximately 20 temples remain in three groups belonging to Hinduism and Jainism, highlighted by the Temple of Kandariya.",
+    "imageReferences": [
+      {
+        "image_id": "img-khajuraho-01",
+        "site_id": "khajuraho-temples",
+        "filename": "src/assets/images/monuments/khajuraho-temples.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_Kandariya_Mahadeva_Temple,_Khajuraho,_Madhya_Pradesh.jpg",
+        "creator": "Taru23",
+        "licence": "CC BY-SA 4.0",
+        "attribution": "Taru23 (CC BY-SA 4.0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Kandariya Mahadeva Temple in the Khajuraho Group of Monuments, Madhya Pradesh (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-unesco-240",
+        "sourceTitle": "Khajuraho Group of Monuments — UNESCO World Heritage List #240",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/240",
+        "apiVerificationUrl": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D%27240%27",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified via official UNESCO DataHub whc001 API (HTTP 200); whc.unesco.org returned HTTP 403 to automated fetcher.",
+        "supportedInformation": [
+          "Official listing as Khajuraho Group of Monuments",
+          "Chandella dynasty apogee (950–1050 CE)",
+          "UNESCO World Heritage Site inscription (1986, Criteria i, iii)",
+          "Hindu and Jain temple groups and Temple of Kandariya sculptures",
+          "Government of India ownership, ASI management, 100 m prohibited / 200 m regulated zones under AMASR Act, and joint District Collector stewardship"
+        ]
+      }
+    ],
+    "verificationStatus": "verified",
+    "requiresVerificationFields": [],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "khajuraho_temples_madhya_pradesh",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  },
+  {
+    "id": "hampi",
+    "accessionCode": "HV-12",
+    "name": "Hampi",
+    "alternativeNames": [
+      "Group of Monuments at Hampi"
+    ],
+    "country": "India",
+    "state": "Karnataka",
+    "cityOrDistrict": "Vijayanagara District",
+    "category": "Temple Architecture",
+    "historicalPeriod": "Kingdom of Vijayanagar",
+    "constructionDateOrPeriod": "14th – 16th centuries CE (abandoned after 1565 CE)",
+    "historicalSignificance": "Last capital of the Kingdom of Vijayanagar; conquered by the Deccan Muslim confederacy in 1565 and pillaged before abandonment.",
+    "architecturalStyle": "Dravidian temples and palaces",
+    "unescoStatus": "world_heritage_site",
+    "unescoInscriptionYear": 1986,
+    "preservationInformation": {
+      "custodian": "Archaeological Survey of India & Government of Karnataka",
+      "statusSummary": "Protected and managed jointly by the Government of India, Archaeological Survey of India, and Government of Karnataka under the AMASR Act (1958, 2010 Amendment) and Karnataka Ancient and Historical Monuments and Archaeological Sites and Remains Act (1961), alongside the Hampi World Heritage Area framework covering 4,187.24 hectares.",
+      "requiresVerification": false
+    },
+    "description": "The austere site of Hampi was the last capital of the Kingdom of Vijayanagar, featuring Dravidian temples and palaces built between the 14th and 16th centuries CE prior to its 1565 conquest.",
+    "imageReferences": [
+      {
+        "image_id": "img-hampi-01",
+        "site_id": "hampi",
+        "filename": "src/assets/images/monuments/hampi.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_Stone_chariot,_Vijaya_Vittala_Temple_Hampi.JPG",
+        "creator": "Vinayak Kulkarni",
+        "licence": "CC BY-SA 3.0",
+        "attribution": "Vinayak Kulkarni (CC BY-SA 3.0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Stone Chariot at Vijaya Vittala Temple complex, Hampi, Karnataka (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-unesco-241",
+        "sourceTitle": "Group of Monuments at Hampi — UNESCO World Heritage List #241",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/241",
+        "apiVerificationUrl": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D%27241%27",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified via official UNESCO DataHub whc001 API (HTTP 200); whc.unesco.org returned HTTP 403 to automated fetcher.",
+        "supportedInformation": [
+          "Official listing as Group of Monuments at Hampi",
+          "Last capital of the Kingdom of Vijayanagar (14th–16th centuries; conquered 1565)",
+          "UNESCO World Heritage Site inscription (1986, Criteria i, iii, iv)",
+          "Dravidian temples and palaces typology",
+          "Joint ASI and Government of Karnataka protection under AMASR Act (1958/2010) and Karnataka Ancient Monuments Act (1961)"
+        ]
+      }
+    ],
+    "verificationStatus": "verified",
+    "requiresVerificationFields": [],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "hampi_monuments_karnataka",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  },
+  {
+    "id": "gol-gumbaz",
+    "accessionCode": "HV-13",
+    "name": "Gol Gumbaz",
+    "alternativeNames": [],
+    "country": "India",
+    "state": "Karnataka",
+    "cityOrDistrict": "Vijayapura",
+    "category": "Mughal & Indo-Islamic",
+    "historicalPeriod": "Adil Shahi Dynasty (Bijapur Sultanate)",
+    "constructionDateOrPeriod": "1659 CE",
+    "historicalSignificance": "Mausoleum of Muhammad Adil Shah II (reigned 1627–1657 CE), seventh Sultan of Bijapur’s Adil Shahi dynasty, built at the architectural zenith of the Adil Shahis.",
+    "architecturalStyle": "Indo-Islamic domed mausoleum with interlocking pendentives from eight intersecting arches and an acoustic whispering gallery",
+    "unescoStatus": "unverified",
+    "unescoInscriptionYear": null,
+    "preservationInformation": {
+      "custodian": "Archaeological Survey of India (Dharwad Circle)",
+      "statusSummary": "Centrally protected and conserved by the Archaeological Survey of India under the Ancient Monuments and Archaeological Sites and Remains (AMASR) Act (1958) within the jurisdiction of the ASI Dharwad Circle, which also maintains the Archaeological Site Museum in the Naqquar Khana inside the Gol Gumbaz complex at Vijayapura.",
+      "requiresVerification": false
+    },
+    "description": "Built in 1659 CE at Vijayapura (Bijapur), Gol Gumbaz is the mausoleum of Muhammad Adil Shah II featuring one of the largest domes in the world (37.92 m internal diameter over a 1,703.56 sq m floor area), supported by eight intersecting arches forming interlocking pendentives and circled by an acoustic whispering gallery.",
+    "imageReferences": [
+      {
+        "image_id": "img-gol-gumbaz-01",
+        "site_id": "gol-gumbaz",
+        "filename": "src/assets/images/monuments/gol-gumbaz.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Gol_Gumbaz_at_Vojayapura_at_Karnataka,_India.jpg",
+        "creator": "Suryakant Sadu",
+        "licence": "CC0",
+        "attribution": "Suryakant Sadu (CC0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Gol Gumbaz Adil Shahi domed mausoleum, Vijayapura, Karnataka (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-unesco-tentative-5887",
+        "sourceTitle": "Monuments and Forts of the Deccan Sultanate — UNESCO Tentative List #5887",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/tentativelists/5887/",
+        "apiVerificationUrl": null,
+        "accessDate": "2026-11-15",
+        "verificationStatus": "unverified",
+        "authoritativeSource": true,
+        "verificationNote": "URL returned HTTP 403 (Cloudflare protection) during automated verification and Tentative List records are not included in UNESCO DataHub whc001 API. Factual fields remain null pending direct primary-source verification.",
+        "supportedInformation": []
+      },
+      {
+        "id": "src-asi-dharwad-gol-gumbaz",
+        "sourceTitle": "Gol Gumbaz & Conservation Work — Archaeological Survey of India, Dharwad Circle",
+        "publisher": "Archaeological Survey of India (Dharwad Circle)",
+        "url": "https://www.asidharwadcircle.in/gol-gumbaz/",
+        "apiVerificationUrl": "https://www.asidharwadcircle.in/conservation-work/",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified directly via HTTP 200 GET from official ASI Dharwad Circle pages (/gol-gumbaz/, /vijayapura-museum/, and /conservation-work/).",
+        "supportedInformation": [
+          "Mausoleum of Muhammad Adil Shah II (1627–57 CE), built in 1659 CE in Vijayapura (Bijapur)",
+          "Internal dome diameter (37.92 m), floor area (1,703.56 sq m), eight intersecting arch pendentives, and whispering gallery",
+          "Central protection and conservation by ASI Dharwad Circle under the AMASR Act (1958) alongside Vijayapura Site Museum"
+        ]
+      }
+    ],
+    "verificationStatus": "partially_verified",
+    "requiresVerificationFields": [
+      "unescoStatus",
+      "sourceReferences.unverified_tentative_list"
+    ],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "gol_gumbaz_vijayapura",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  },
+  {
+    "id": "konark-sun-temple",
+    "accessionCode": "HV-14",
+    "name": "Konark Sun Temple",
+    "alternativeNames": [
+      "Sun Temple, Konârk"
+    ],
+    "country": "India",
+    "state": "Odisha",
+    "cityOrDistrict": "Puri District",
+    "category": "Temple Architecture",
+    "historicalPeriod": "13th century CE",
+    "constructionDateOrPeriod": "13th century CE",
+    "historicalSignificance": "Built in the 13th century on the shores of the Bay of Bengal; described by UNESCO as one of India's most famous Brahman sanctuaries.",
+    "architecturalStyle": "Stone temple representing the sun god Surya's chariot with 24 decorated wheels led by six horses",
+    "unescoStatus": "world_heritage_site",
+    "unescoInscriptionYear": 1984,
+    "preservationInformation": {
+      "custodian": "Archaeological Survey of India",
+      "statusSummary": "Protected under the AMASR Act (1958) and Rules (1959) with 100 m prohibited and 200 m regulated zones, supplemented by the Forest Act and Konarak Development Act; all conservation programmes are undertaken by the Archaeological Survey of India across five management plans covering safety, environment, master planning, environmental development, and tourism.",
+      "requiresVerification": false
+    },
+    "description": "Built in the 13th century on the shores of the Bay of Bengal, the temple at Konarak is a monumental representation of the sun god Surya's chariot, featuring 24 wheels decorated with symbolic designs and led by six horses.",
+    "imageReferences": [
+      {
+        "image_id": "img-konark-01",
+        "site_id": "konark-sun-temple",
+        "filename": "src/assets/images/monuments/konark-sun-temple.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Konark_Sun_Temple_Puri_district,_Odisha,_India_1.jpg",
+        "creator": "Joydeep",
+        "licence": "CC BY-SA 4.0",
+        "attribution": "Joydeep (CC BY-SA 4.0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Sun Temple at Konark jagamohana stone structure, Puri District, Odisha (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-unesco-246",
+        "sourceTitle": "Sun Temple, Konârk — UNESCO World Heritage List #246",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/246",
+        "apiVerificationUrl": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D%27246%27",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified via official UNESCO DataHub whc001 API (HTTP 200); whc.unesco.org returned HTTP 403 to automated fetcher.",
+        "supportedInformation": [
+          "Official listing as Sun Temple, Konârk",
+          "13th-century CE dating on the shores of the Bay of Bengal",
+          "UNESCO World Heritage Site inscription (1984, Criteria i, iii)",
+          "Surya's chariot representation with 24 wheels and six horses",
+          "ASI protection under the AMASR Act (1958/1959) with 100 m/200 m buffer zones and five management plans"
+        ]
+      }
+    ],
+    "verificationStatus": "verified",
+    "requiresVerificationFields": [],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "konark_sun_temple_odisha",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  },
+  {
+    "id": "mahabalipuram",
+    "accessionCode": "HV-15",
+    "name": "Mahabalipuram",
+    "alternativeNames": [
+      "Group of Monuments at Mahabalipuram"
+    ],
+    "country": "India",
+    "state": "Tamil Nadu",
+    "cityOrDistrict": "Chengalpattu District",
+    "category": "Temple Architecture",
+    "historicalPeriod": "Pallava Kings",
+    "constructionDateOrPeriod": "7th and 8th centuries CE",
+    "historicalSignificance": "Sanctuaries founded by the Pallava kings along the Coromandel coast, showcasing thousands of sculptures dedicated to Shiva and the open-air relief 'Descent of the Ganges'.",
+    "architecturalStyle": "Rock-cut rathas (chariot temples), mandapas (cave sanctuaries), open-air rock reliefs, and the temple of Rivage",
+    "unescoStatus": "world_heritage_site",
+    "unescoInscriptionYear": 1984,
+    "preservationInformation": {
+      "custodian": "Archaeological Survey of India",
+      "statusSummary": "Protected, conserved, and managed by the Archaeological Survey of India under the AMASR Act (1958), Rules (1959), 1992 amendment, and 2010 Amendment; 100 m prohibited and 200 m regulated zones are continuously monitored under a regular ASI conservation schedule, with the property maintained in a good state of conservation.",
+      "requiresVerification": false
+    },
+    "description": "Founded by the Pallava kings along the Coromandel coast in the 7th and 8th centuries CE, this group of rock-carved sanctuaries includes rathas, mandapas, the 'Descent of the Ganges' open-air relief, and the temple of Rivage.",
+    "imageReferences": [
+      {
+        "image_id": "img-mahabalipuram-01",
+        "site_id": "mahabalipuram",
+        "filename": "src/assets/images/monuments/mahabalipuram.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Shore_Temple_01.jpg",
+        "creator": "Bernard Gagnon",
+        "licence": "CC BY-SA 3.0",
+        "attribution": "Bernard Gagnon (CC BY-SA 3.0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Shore Temple (temple of Rivage) overlooking the Coromandel coast, Mahabalipuram (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-unesco-249",
+        "sourceTitle": "Group of Monuments at Mahabalipuram — UNESCO World Heritage List #249",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/249",
+        "apiVerificationUrl": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D%27249%27",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified via official UNESCO DataHub whc001 API (HTTP 200); whc.unesco.org returned HTTP 403 to automated fetcher.",
+        "supportedInformation": [
+          "Official listing as Group of Monuments at Mahabalipuram",
+          "7th and 8th century Pallava kings patronage",
+          "UNESCO World Heritage Site inscription (1984, Criteria i, ii, iii)",
+          "Rathas, mandapas, Descent of the Ganges relief, and temple of Rivage",
+          "ASI protection, regular conservation monitoring schedule, and 100 m/200 m buffer zone enforcement under the AMASR Act"
+        ]
+      }
+    ],
+    "verificationStatus": "verified",
+    "requiresVerificationFields": [],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "mahabalipuram_tamil_nadu",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  },
+  {
+    "id": "amer-fort",
+    "accessionCode": "HV-16",
+    "name": "Amer Fort",
+    "alternativeNames": [
+      "Hill Forts of Rajasthan — Jaipur"
+    ],
+    "country": "India",
+    "state": "Rajasthan",
+    "cityOrDistrict": "Jaipur",
+    "category": "Forts & Palaces",
+    "historicalPeriod": "Rajput princely states (8th – 18th centuries CE)",
+    "constructionDateOrPeriod": null,
+    "historicalSignificance": "Part of the six-fort serial property Hill Forts of Rajasthan, demonstrating Rajput military defense and courtly culture from the 8th to 18th centuries.",
+    "architecturalStyle": "Eclectic Rajput hill-fort architecture integrating natural terrain defenses, palaces, temples, and water harvesting structures",
+    "unescoStatus": "world_heritage_site",
+    "unescoInscriptionYear": 2013,
+    "preservationInformation": {
+      "custodian": "Government of Rajasthan (Amber Development and Management Authority & State Apex Advisory Committee)",
+      "statusSummary": "Designated a State Protected Monument of Rajasthan under the Rajasthan Monuments, Archaeological Sites and Antiquities Act (1968) with an additional 50 m buffer zone around Amber Palace; overarching management is steered by Rajasthan’s State Level Apex Advisory Committee (with ASI participation) and implemented by the Amber Development and Management Authority.",
+      "requiresVerification": false
+    },
+    "description": "Fort located in Jaipur included within the UNESCO serial property Hill Forts of Rajasthan, enclosing palaces, temples, and extensive water harvesting structures within defensive walls.",
+    "imageReferences": [
+      {
+        "image_id": "img-amer-fort-01",
+        "site_id": "amer-fort",
+        "filename": "src/assets/images/monuments/amer-fort.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Amer_Fort_-_Jaipur_-_Rajasthan.jpg",
+        "creator": "Bibinca",
+        "licence": "CC BY-SA 4.0",
+        "attribution": "Bibinca (CC BY-SA 4.0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Amer Fort hill fortress walls and palace complex overlooking Maota Lake, Jaipur (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-unesco-247-amer",
+        "sourceTitle": "Hill Forts of Rajasthan — UNESCO World Heritage List #247",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/247",
+        "apiVerificationUrl": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D%27247%27",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified via official UNESCO DataHub whc001 API (HTTP 200); whc.unesco.org returned HTTP 403 to automated fetcher.",
+        "supportedInformation": [
+          "Inclusion of Jaipur fort component in Hill Forts of Rajasthan",
+          "8th to 18th century Rajput princely state context",
+          "UNESCO World Heritage Site serial inscription (2013)",
+          "Fortification walls, palaces, temples, and water harvesting structures",
+          "Rajasthan State Protected Monument status (1968 Act), 50 m Amber Palace buffer zone, State Apex Advisory Committee, and Amber Development and Management Authority"
+        ]
+      }
+    ],
+    "verificationStatus": "partially_verified",
+    "requiresVerificationFields": [
+      "constructionDateOrPeriod"
+    ],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "amer_fort_jaipur",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  },
+  {
+    "id": "chittorgarh-fort",
+    "accessionCode": "HV-17",
+    "name": "Chittorgarh Fort",
+    "alternativeNames": [
+      "Hill Forts of Rajasthan — Chittorgarh"
+    ],
+    "country": "India",
+    "state": "Rajasthan",
+    "cityOrDistrict": "Chittorgarh",
+    "category": "Forts & Palaces",
+    "historicalPeriod": "Rajput princely states (8th – 18th centuries CE)",
+    "constructionDateOrPeriod": null,
+    "historicalSignificance": "Part of the six-fort serial property Hill Forts of Rajasthan, illustrating Rajput princely power and courtly culture from the 8th to 18th centuries.",
+    "architecturalStyle": "Eclectic Rajput hill-fort architecture integrating natural defenses, urban centres, palaces, temples, and water harvesting structures",
+    "unescoStatus": "world_heritage_site",
+    "unescoInscriptionYear": 2013,
+    "preservationInformation": {
+      "custodian": "Archaeological Survey of India & Government of Rajasthan",
+      "statusSummary": "Protected as a Monument of National Importance (listed 1956 under the 1951 Act) and governed by the AMASR Act (including the 2010 200 m zone amendment), steered alongside Rajasthan’s State Level Apex Advisory Committee; UNESCO notes surrounding quarry, industrial air pollution, and urban pressures requiring strict buffer-zone planning.",
+      "requiresVerification": false
+    },
+    "description": "Fort located in Chittorgarh included within the UNESCO serial property Hill Forts of Rajasthan, enclosing urban centres, palaces, temples, and water harvesting structures.",
+    "imageReferences": [
+      {
+        "image_id": "img-chittorgarh-01",
+        "site_id": "chittorgarh-fort",
+        "filename": "src/assets/images/monuments/chittorgarh-fort.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Chittorgarh-Rana_Kumbha_Palace-10-Vijay_Stambha-20131014.jpg",
+        "creator": "Daniel Villafruela",
+        "licence": "CC BY-SA 3.0",
+        "attribution": "Daniel Villafruela (CC BY-SA 3.0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Rana Kumbha Palace and Vijay Stambha inside Chittorgarh Fort, Rajasthan (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-unesco-247-chittor",
+        "sourceTitle": "Hill Forts of Rajasthan — UNESCO World Heritage List #247",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/247",
+        "apiVerificationUrl": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D%27247%27",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified via official UNESCO DataHub whc001 API (HTTP 200); whc.unesco.org returned HTTP 403 to automated fetcher.",
+        "supportedInformation": [
+          "Inclusion of Chittorgarh fort in Hill Forts of Rajasthan",
+          "8th to 18th century Rajput princely state context",
+          "UNESCO World Heritage Site serial inscription (2013)",
+          "Terrain defenses, urban centres, temples, and water harvesting systems",
+          "Monument of National Importance designation (1956), AMASR Act (2010) 200 m zone, and State Level Apex Advisory Committee oversight"
+        ]
+      }
+    ],
+    "verificationStatus": "partially_verified",
+    "requiresVerificationFields": [
+      "constructionDateOrPeriod"
+    ],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "chittorgarh_fort_rajasthan",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  },
+  {
+    "id": "charminar",
+    "accessionCode": "HV-18",
+    "name": "Charminar",
+    "alternativeNames": [],
+    "country": "India",
+    "state": "Telangana",
+    "cityOrDistrict": "Hyderabad",
+    "category": "Mughal & Indo-Islamic",
+    "historicalPeriod": "Qutub Shahi Dynasty (Golconda Sultanate)",
+    "constructionDateOrPeriod": "1000 AH / 1591–1592 CE",
+    "historicalSignificance": "Constructed as one of the earliest edifices in the newly founded city of Hyderabad on 1 Muharram 1000 AH (1591–92 CE) by Sultan Mohammad Quli Qutub Shah, fifth ruler of the Qutub Shahi dynasty.",
+    "architecturalStyle": "Qutub Shahi stone and lime-mortar square monument (31.95 m) with four 56 m minarets, cardinal arches, arcaded gallery, second-floor mosque, and stucco ornamentation",
+    "unescoStatus": "unverified",
+    "unescoInscriptionYear": null,
+    "preservationInformation": {
+      "custodian": "Archaeological Survey of India (Hyderabad Circle)",
+      "statusSummary": "Managed as a principal protected monument (Monument Code 5.5.2) under the Archaeological Survey of India’s Hyderabad Circle; recorded restoration works include rebuilding the south-western minaret after lightning damage, complete lime re-plastering in 1824 CE under Asaf Jah III, and mechanical maintenance of the 1889 facade clocks (repaired in 1962).",
+      "requiresVerification": false
+    },
+    "description": "Iconic 1591–92 CE Qutub Shahi civic edifice and mosque in Hyderabad built of stone and lime mortar on a 31.95 m square plan with four cardinal arches, a second-floor mosque containing 45 prayer spaces, delicate stucco decoration, and four corner minarets rising 56 m from ground level.",
+    "imageReferences": [
+      {
+        "image_id": "img-charminar-01",
+        "site_id": "charminar",
+        "filename": "src/assets/images/monuments/charminar.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Charminar_12032013.jpg",
+        "creator": "Joydeep",
+        "licence": "CC BY-SA 3.0",
+        "attribution": "Joydeep (CC BY-SA 3.0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Charminar four-arched Qutub Shahi monument, Hyderabad, Telangana (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-asi-hyderabad-charminar",
+        "sourceTitle": "Charminar (Monument Code 5.5.2) — Archaeological Survey of India, Hyderabad Circle",
+        "publisher": "Archaeological Survey of India (Hyderabad Circle)",
+        "url": "https://asihyderabad.in/monuments/hyderabad/5.5.2",
+        "apiVerificationUrl": "https://asihyderabad.in/assets/charminar-DcKcGLGK.md",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified directly via HTTP 200 GET of the official ASI Hyderabad Circle monument documentation Markdown served at /assets/charminar-DcKcGLGK.md.",
+        "supportedInformation": [
+          "Foundation in 1000 AH / 1591–92 CE by Sultan Mohammad Quli Qutub Shah (Qutub Shahi dynasty)",
+          "Architectural dimensions (31.95 m square plan, 56 m minarets, 45 musallas mosque, stucco work)",
+          "ASI Hyderabad Circle protected monument stewardship (Code 5.5.2) and documented restorations (lightning repair, 1824 CE re-plastering, 1889 clocks)"
+        ]
+      }
+    ],
+    "verificationStatus": "partially_verified",
+    "requiresVerificationFields": [
+      "unescoStatus"
+    ],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "charminar_hyderabad",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  },
+  {
+    "id": "rani-ki-vav",
+    "accessionCode": "HV-19",
+    "name": "Rani Ki Vav",
+    "alternativeNames": [
+      "Rani-ki-Vav (the Queen’s Stepwell) at Patan, Gujarat"
+    ],
+    "country": "India",
+    "state": "Gujarat",
+    "cityOrDistrict": "Patan",
+    "category": "Stepwells & Water Architecture",
+    "historicalPeriod": "11th century CE",
+    "constructionDateOrPeriod": "11th century CE",
+    "historicalSignificance": "Built on the banks of the Saraswati River as a memorial to a king, representing the height of stepwell construction and Maru-Gurjara architectural craftsmanship.",
+    "architecturalStyle": "Maru-Gurjara architectural style subterranean stepwell designed as an inverted temple with seven levels of stairs",
+    "unescoStatus": "world_heritage_site",
+    "unescoInscriptionYear": 2014,
+    "preservationInformation": {
+      "custodian": "Archaeological Survey of India",
+      "statusSummary": "Formally designated an Ancient Monument of National Importance under the AMASR Act (1958, 2010 Amendment) and administered solely by the Archaeological Survey of India under a Superintending Archaeologist and on-site team with a 100 m non-development zone and active ASI management plan (commenced 2013), with UNESCO advising enhanced seismic risk preparedness.",
+      "requiresVerification": false
+    },
+    "description": "An 11th-century subterranean stepwell in Patan, Gujarat built in the Maru-Gurjara architectural style and designed as an inverted temple with seven levels of stairs, over 500 principal sculptures, and a 30-m deep well shaft.",
+    "imageReferences": [
+      {
+        "image_id": "img-rani-ki-vav-01",
+        "site_id": "rani-ki-vav",
+        "filename": "src/assets/images/monuments/rani-ki-vav.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Rani_ki_vav_10.jpg",
+        "creator": "Bernard Gagnon",
+        "licence": "CC BY-SA 3.0",
+        "attribution": "Bernard Gagnon (CC BY-SA 3.0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Rani-ki-Vav stepped subterranean pavilion and Maru-Gurjara sculptures, Patan, Gujarat (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-unesco-922",
+        "sourceTitle": "Rani-ki-Vav (the Queen’s Stepwell) at Patan, Gujarat — UNESCO World Heritage List #922",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/922",
+        "apiVerificationUrl": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D%27922%27",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified via official UNESCO DataHub whc001 API (HTTP 200); whc.unesco.org returned HTTP 403 to automated fetcher.",
+        "supportedInformation": [
+          "Official listing and Patan, Gujarat location on the Saraswati River",
+          "11th-century CE dating as a memorial to a king",
+          "UNESCO World Heritage Site inscription (2014)",
+          "Maru-Gurjara style, seven stair levels, >500 principal sculptures, 23 m tank depth, and 30 m shaft",
+          "Monument of National Importance designation under AMASR Act (1958/2010), 100 m non-development zone, and sole ASI Superintending Archaeologist management"
+        ]
+      }
+    ],
+    "verificationStatus": "verified",
+    "requiresVerificationFields": [],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "rani_ki_vav_patan",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  },
+  {
+    "id": "jantar-mantar-jaipur",
+    "accessionCode": "HV-20",
+    "name": "Jantar Mantar Jaipur",
+    "alternativeNames": [
+      "The Jantar Mantar, Jaipur"
+    ],
+    "country": "India",
+    "state": "Rajasthan",
+    "cityOrDistrict": "Jaipur",
+    "category": "Astronomical Observatories",
+    "historicalPeriod": "End of the Mughal period (early 18th century CE)",
+    "constructionDateOrPeriod": "Early 18th century CE",
+    "historicalSignificance": "Described by UNESCO as the most significant, most comprehensive, and best preserved of India's historic observatories.",
+    "architecturalStyle": "Monumental masonry astronomical observation instruments designed for naked-eye observation",
+    "unescoStatus": "world_heritage_site",
+    "unescoInscriptionYear": 2010,
+    "preservationInformation": {
+      "custodian": "Government of Rajasthan (Department of Archaeology and Museums)",
+      "statusSummary": "Protected under Sections 3 and 4 of the Rajasthan Monuments, Archaeological Sites and Antiquities Act (1961) and designated a Monument of National Importance in 1968; UNESCO identifies tourism growth and nearby urban/traffic upgrades as key buffer-zone threats requiring Master Plan integration.",
+      "requiresVerification": false
+    },
+    "description": "An early 18th-century astronomical observation site in Jaipur containing a set of some 20 main fixed masonry instruments designed for naked-eye observation of astronomical positions.",
+    "imageReferences": [
+      {
+        "image_id": "img-jantar-mantar-01",
+        "site_id": "jantar-mantar-jaipur",
+        "filename": "src/assets/images/monuments/jantar-mantar-jaipur.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:20191218_Jantar_Mantar,_Jaipur_0906_8983_DxO.jpg",
+        "creator": "Jakub Hałun",
+        "licence": "CC BY-SA 4.0",
+        "attribution": "Jakub Hałun (CC BY-SA 4.0) via Wikimedia Commons",
+        "image_type": "verified_dataset_photograph",
+        "verification_status": "verified_dataset_photo",
+        "is_recognition_dataset_image": true,
+        "caption": "Astronomical masonry instruments at Jantar Mantar, Jaipur, Rajasthan (Wikimedia Commons)"
+      }
+    ],
+    "sourceReferences": [
+      {
+        "id": "src-unesco-1338",
+        "sourceTitle": "The Jantar Mantar, Jaipur — UNESCO World Heritage List #1338",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1338",
+        "apiVerificationUrl": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D%271338%27",
+        "accessDate": "2026-11-15",
+        "verificationStatus": "verified",
+        "authoritativeSource": true,
+        "verificationNote": "Verified via official UNESCO DataHub whc001 API (HTTP 200); whc.unesco.org returned HTTP 403 to automated fetcher.",
+        "supportedInformation": [
+          "Official listing as The Jantar Mantar, Jaipur",
+          "Early 18th-century dating at the end of the Mughal period",
+          "UNESCO World Heritage Site inscription (2010, Criteria iii, iv)",
+          "Set of ~20 fixed masonry instruments for naked-eye astronomical observation",
+          "Protection under Rajasthan Monuments Act (1961, Sections 3 & 4), Monument of National Importance designation (1968), and Master Plan buffer requirements"
+        ]
+      }
+    ],
+    "verificationStatus": "verified",
+    "requiresVerificationFields": [],
+    "hasGeneratedPlate": false,
+    "openClipReference": {
+      "classLabel": "jantar_mantar_jaipur",
+      "promptTemplateReady": true,
+      "referenceEmbeddingsIndexed": 0
+    }
+  }
+]
